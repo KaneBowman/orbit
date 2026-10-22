@@ -1,0 +1,5 @@
+# local tooling and QA artifacts
+.tools/
+.tmp/
+.pnpm-store/
+node_modules/
